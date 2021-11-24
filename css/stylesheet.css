@@ -9,7 +9,14 @@ body,
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 14px;
-  color: #ffffff;
+  color: black;
+}
+.backgroundpicture{
+background-image: url("images/background.jpg");
+position: adjust;
+size-adjust: 10%;
+height: 100%;
+width: 100%;
 }
 
 /* Style the top navigation bar */
@@ -24,16 +31,17 @@ a {
   font-size: 16px;
 }
 
-.logo-image {
-  width: 60px;
-  height: 70px;
+.andylogo-image {
+  width: 12%;
+  height: 12%;
+  position: relative;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: right;
   display: block;
-  color: #c0a9bd;
+  color: #B983FF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: underline
@@ -41,15 +49,15 @@ a {
 
 
 .topnav a:hover {
-  background-color: #94a7ae;
+  background-color: #18a2d4;
   color: #ffffff;
 }
 
 .button {
   color: #ffffff;
-  background-color: #d626aa;
+  background-color: #94B3FD;
   padding: 5px;
-  margin-top: 15px;
+  margin-top: 10px;
 
   border: purple color:white;
   padding: 15px 32px;
@@ -68,22 +76,24 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+  font-family: Cambriba, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
   font-weight: 700;
 }
 
 .content {
-  background-color: #9f4963;
+  background-color: #94DAFF;
   padding: 10px;
   color: #01050e;
-  width: 70%;
+  width: 30%;
   display: inline-block;
-  height: 290px;
+  height: 400px;
+  font-size: large;
+  text-align:left
 
 }
 
 .content2 {
-  float: right;
+  float:right;
   width: 30%;
   display: inline-block;
 }
@@ -92,6 +102,7 @@ h6 {
 .section4 {
   color: #000000;
   padding: 25px;
+  font-size: large;
 
 }
 
@@ -101,9 +112,9 @@ h6 {
 }
 
 .element {
-  width: 300px;
-  height: 540px;
-  background: #f8f5f1;
+  width: 400px;
+  height: 600px;
+  background: #4cc9f0;
   margin-right: 20px;
   padding: 4px;
 }
@@ -111,19 +122,19 @@ h6 {
 .elementPicture {
   margin:left;
   
- 
 }
 
-.intro-image {
+.msposh-image {
   width: 100%;
-  float: right;
+  height: 100%;
+  float: center;
 }
 
-.product-image {
+.products-image {
   height:100%
-  width: 100%;
-  float: right;
-  height: 400px;
+  width: 150%;
+  float:right;
+  height: 390px;
 }
 
 .section3 {
@@ -153,9 +164,11 @@ h6 {
 .testimonial-element {
   width: 400px;
   height: 420px;
-  background: #f8f5f1;
+  background: #a3b2bd;
   margin-right: 20px;
   padding: 10px;
+  border:rad
+  border-radius: 
 }
 
 .testimonial-image {
