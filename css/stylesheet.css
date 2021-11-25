@@ -44,7 +44,8 @@ a {
   color: #B983FF;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: underline
+  text-decoration: underline bold;
+  
 }
 
 
@@ -114,7 +115,7 @@ h6 {
 .element {
   width: 400px;
   height: 600px;
-  background: #4cc9f0;
+  background: #B983FF;
   margin-right: 20px;
   padding: 4px;
 }
@@ -130,6 +131,24 @@ h6 {
   float: center;
 }
 
+.element1 {
+  width: 400px;
+  height: 600px;
+  background: #B983FF;
+  margin-right: 20px;
+  padding: 4px;
+}
+
+.elementPicture {
+  margin:left;
+  
+}
+
+.msposh-image {
+  width: 100%;
+  height: 100%;
+  float: center;
+}
 .products-image {
   height:100%
   width: 150%;
@@ -138,7 +157,7 @@ h6 {
 }
 
 .section3 {
-  background-color: #e6d5b8;
+  background-color: #009DAE;
   padding: 25px;
   color: #000000;
 }
@@ -155,6 +174,12 @@ h6 {
   padding: 5px;
 }
 
+
+.section3element1 {
+  width: 450px;
+  padding: 5px;
+}
+
 .section4content {
   text-align: center;
   display: flex;
@@ -164,7 +189,7 @@ h6 {
 .testimonial-element {
   width: 400px;
   height: 420px;
-  background: #a3b2bd;
+  background: #C2FFF9;
   margin-right: 20px;
   padding: 10px;
   border:rad
@@ -178,9 +203,9 @@ h6 {
 }
 
 .section5content {
-  background-color: #4a3933;
+  background-color: #B983FF;
   padding: 10px;
-  color: #ffffff;
+  color: #141111;
   width: 100%;
   display: flex;
 }
@@ -201,7 +226,7 @@ h6 {
 }
 
 .footertext {
-  color: #e45826;
+  color: #009DAE;
 }
 
 .footerheader {
