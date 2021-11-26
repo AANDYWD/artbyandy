@@ -25,7 +25,11 @@ width: 100%;
   overflow: hidden;
   background-color: #ffffff;
 }
-
+.yarn-image{
+  width: 50%;
+  height: 100%;
+  position: center;
+}
 a {
   font-family: l font-weight: 600;
   font-size: 16px;
