@@ -60,8 +60,7 @@ a {
 
 .button {
   color: #ffffff;
-  background-color: #94B3FD;
-  padding: 5px;
+  background-color: #1597E5;
   margin-top: 10px;
 
   border: purple color:white;
@@ -86,7 +85,7 @@ h6 {
 }
 
 .content {
-  background-color: #94DAFF;
+  background-color: #193498;
   padding: 10px;
   color: #01050e;
   width: 30%;
@@ -117,13 +116,14 @@ h6 {
 }
 
 .element {
-  width: 400px;
-  height: 600px;
-  background: #B983FF;
+  width: 500px;
+  height: 400px;
+  background: #113CFC;
   margin-right: 20px;
   padding: 4px;
 }
 
+}
 .elementPicture {
   margin:left;
   
@@ -142,13 +142,17 @@ h6 {
   margin-right: 20px;
   padding: 4px;
 }
-
-.elementPicture {
-  margin:left;
-  
+.secion2acontent{
+  text-align:left 
+  ;
 }
 
-.msposh-image {
+.element1Picture {
+  margin:left;
+  display: flex;
+}
+
+.purplehat-image {
   width: 100%;
   height: 100%;
   float: center;
@@ -207,8 +211,7 @@ h6 {
 }
 
 .section5content {
-  background-color: #B983FF;
-  padding: 10px;
+  background-color: #193498;
   color: #141111;
   width: 100%;
   display: flex;
