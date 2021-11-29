@@ -1,0 +1,42 @@
+.andylog-image{
+    width: 100%;
+    height: 100%;
+    float: center;
+   
+}
+    .purplehat-image{
+        width: 50%;
+        height: 12%;
+        float: center;
+        border-radius:100% ;
+      
+      }
+      .purpletote-image{
+        width: 50%;
+        height: 15%;
+        float: center;
+        border-radius:90% ;
+      }
+      .redhat-image{
+        width: 50%;
+        height: 15%;
+        float: center;
+        border-radius:80% ;
+      }
+      .drawing-image{
+        width: 80%;
+        height: 20%;
+        float: center;
+       
+      }
+      .rabbit-image{
+        width: 50%;
+        height: 20%;
+        float: center;
+        border-radius:100% ;
+      }
+      .knitcrobag-image{
+        width: 45%;
+        height: 20%;
+        float: center;
+        border-radius:100% ;
